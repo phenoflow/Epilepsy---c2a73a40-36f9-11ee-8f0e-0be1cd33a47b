@@ -1,0 +1,144 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/epilepsy---primary.py
+inputModule3:
+  class: File
+  path: python/epilepsy-epilepticu---primary.py
+inputModule4:
+  class: File
+  path: python/epilepsy-resolved---primary.py
+inputModule5:
+  class: File
+  path: python/patient-epilepsy---primary.py
+inputModule6:
+  class: File
+  path: python/epilepsy-monitoring---primary.py
+inputModule7:
+  class: File
+  path: python/epilepsy-effects---primary.py
+inputModule8:
+  class: File
+  path: python/epilepsy-treatment---primary.py
+inputModule9:
+  class: File
+  path: python/epilepsy-control---primary.py
+inputModule10:
+  class: File
+  path: python/epilepsy-month---primary.py
+inputModule11:
+  class: File
+  path: python/epilepsy-employment---primary.py
+inputModule12:
+  class: File
+  path: python/epilepsy-impairment---primary.py
+inputModule13:
+  class: File
+  path: python/epilepsy-activity---primary.py
+inputModule14:
+  class: File
+  path: python/epilepsy-seizure---primary.py
+inputModule15:
+  class: File
+  path: python/epilepsy-invite---primary.py
+inputModule16:
+  class: File
+  path: python/epilepsy-letter---primary.py
+inputModule17:
+  class: File
+  path: python/epilepsy-psychosis---primary.py
+inputModule18:
+  class: File
+  path: python/limbic-epilepsy---primary.py
+inputModule19:
+  class: File
+  path: python/myoclonic-epilepsy---primary.py
+inputModule20:
+  class: File
+  path: python/encephalopathy-epilepsy---primary.py
+inputModule21:
+  class: File
+  path: python/convulsive-epilepsy---primary.py
+inputModule22:
+  class: File
+  path: python/epilepsy-petit---primary.py
+inputModule23:
+  class: File
+  path: python/epilepsy-absence---primary.py
+inputModule24:
+  class: File
+  path: python/pyknoepilepsy---primary.py
+inputModule25:
+  class: File
+  path: python/juvenile-epilepsy---primary.py
+inputModule26:
+  class: File
+  path: python/epilepsy-lennoxgastaut---primary.py
+inputModule27:
+  class: File
+  path: python/epilepsy-unspecified---primary.py
+inputModule28:
+  class: File
+  path: python/grand-epilepsy---primary.py
+inputModule29:
+  class: File
+  path: python/tonicclonic-epilepsy---primary.py
+inputModule30:
+  class: File
+  path: python/epilepsy-otohara---primary.py
+inputModule31:
+  class: File
+  path: python/epilepsy-consciousness---primary.py
+inputModule32:
+  class: File
+  path: python/epilepsy-motor---primary.py
+inputModule33:
+  class: File
+  path: python/complex-epilepsy---primary.py
+inputModule34:
+  class: File
+  path: python/focal-epilepsy---primary.py
+inputModule35:
+  class: File
+  path: python/epilepsy-reflex---primary.py
+inputModule36:
+  class: File
+  path: python/partial-epilepsy---primary.py
+inputModule37:
+  class: File
+  path: python/epilepsy-infantile---primary.py
+inputModule38:
+  class: File
+  path: python/epilepsy-spasm---primary.py
+inputModule39:
+  class: File
+  path: python/epilepsy-west---primary.py
+inputModule40:
+  class: File
+  path: python/epilepsy-hypsarrhythmia---primary.py
+inputModule41:
+  class: File
+  path: python/epilepsy-ohtahara---primary.py
+inputModule42:
+  class: File
+  path: python/epilepsy-dravet---primary.py
+inputModule43:
+  class: File
+  path: python/epilepsy-forms---primary.py
+inputModule44:
+  class: File
+  path: python/epilepsy-panayiotopoulos---primary.py
+inputModule45:
+  class: File
+  path: python/other-epilepsy---primary.py
+inputModule46:
+  class: File
+  path: python/epilepsy-history---primary.py
+inputModule47:
+  class: File
+  path: python/epilepsy---secondary.py
+inputModule48:
+  class: File
+  path: python/output-cases.py
